@@ -1,0 +1,28 @@
+name: Rushmanstesting
+favicon: null
+layout_spectrum: 0.6554403270129114
+typography_spectrum: 0.6061407246161252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18147104955278337
+  lightness: 0.9422693343367428
+  saturation: 0.9811334635596722
+  rhythmicContrast: 0.357613910920918
+purpose: []
